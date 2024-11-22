@@ -1,20 +1,5 @@
 title: Soohyun Kwon
-description: A personal blog about technology and life.
-baseurl: "/my-awesome-blog" # Optional, if your site is in a subdirectory
-
+logo: /assets/img/headshot_circle.png
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
-
-# Customize Theme Settings (Optional)
-minimal:
-  # Navigation
-  nav:
-    - title: Home
-      url: /
-    - title: About
-      url: /about/
-    - title: Blog
-      url: /blog/
-
-  # Footer
-  footer:
-    copyright: &copy; 2023 My Awesome Blog
