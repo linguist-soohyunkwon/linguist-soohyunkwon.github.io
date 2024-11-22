@@ -1,1 +1,32 @@
+title: My Awesome Blog
+description: A personal blog about technology and life.
+baseurl: "/my-awesome-blog" # Optional, if your site is in a subdirectory
 
+# Theme and Plugins
+theme: jekyll-theme-minimal # Or your preferred theme
+plugins:
+  - jekyll-feed
+
+# Permalink Structure
+permalink: /:year/:month/:day/:title.html
+
+# Pagination
+paginate: 10 # Number of posts per page
+
+# Post Defaults
+defaults:
+  - scope:
+      path: _posts
+    values:
+      layout: post
+      author: Your Name
+      categories: [uncategorized]
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
