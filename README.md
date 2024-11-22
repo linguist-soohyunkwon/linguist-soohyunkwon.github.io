@@ -1,8 +1,10 @@
 # Soohyun Kwon 
+Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
 
 ## Education
-- Ph.D., Linguistics | University of Pennsylvania 							       		 			        		
+- Ph.D., Linguistics | University of Pennsylvania
+  Advisor: William Labov                             		
 - B.A., Linguistics | Korea University 
 
 ## Work Experience
