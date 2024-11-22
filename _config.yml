@@ -2,31 +2,19 @@ title: Soohyun Kwon
 description: A personal blog about technology and life.
 baseurl: "/my-awesome-blog" # Optional, if your site is in a subdirectory
 
-# Theme and Plugins
-theme: Beautiful Jekyll Theme # Or your preferred theme
-plugins:
-  - jekyll-feed
+theme: jekyll-theme-minimal
 
-# Permalink Structure
-permalink: /:year/:month/:day/:title.html
+# Customize Theme Settings (Optional)
+minimal:
+  # Navigation
+  nav:
+    - title: Home
+      url: /
+    - title: About
+      url: /about/
+    - title: Blog
+      url: /blog/
 
-# Pagination
-paginate: 10 # Number of posts per page
-
-# Post Defaults
-defaults:
-  - scope:
-      path: _posts
-    values:
-      layout: post
-      author: Your Name
-      categories: [uncategorized]
-
-# Navigation
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about/
-  - title: Contact
-    url: /contact/
+  # Footer
+  footer:
+    copyright: &copy; 2023 My Awesome Blog
