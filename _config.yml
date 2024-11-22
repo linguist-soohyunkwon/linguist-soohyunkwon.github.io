@@ -3,7 +3,7 @@ description: A personal blog about technology and life.
 baseurl: "/my-awesome-blog" # Optional, if your site is in a subdirectory
 
 # Theme and Plugins
-theme: jekyll-theme-architect # Or your preferred theme
+theme: Beautiful Jekyll Theme # Or your preferred theme
 plugins:
   - jekyll-feed
 
