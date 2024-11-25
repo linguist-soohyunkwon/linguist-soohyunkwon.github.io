@@ -1,20 +1,40 @@
-#  
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+# Welcome to My Project
+
+This is a simple project to demonstrate the use of links in a README file.
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+
+## Introduction
+This project is a great example of how to use links in a README file.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone [invalid URL removed]
+
+
+
+
+
+#  Welcome! 
+I'm a post-doctoral researcher at Seoul National University. I'm a sociolinguist investigating  -- what does that mean? First, it means I study phonology (sounds!) - with a particular focus on phonological variation and change. I look at the sociolinguistic aspects of sound variation: how it is affected by the macrosocial (like how an entire city is changing its pronunciation over time) as well as the microsocial (like how certain sounds index a speaker as sounding "tough"). And the quantitative part? I use quantitative methods to analyze sociophonological variation. Check out my research page to learn more!
+
+I did a postdoctoral fellowship from 2018-2020 in the Learning and Development Lab at Georgetown University with Elissa Newport, where I used miniature artificial language experiments to investigate the way that children acquire sociolinguistic and phonological variation. I received my PhD in Linguistics from the University of Pennsylvania in 2018, where my primary advisor was Bill Labov. My dissertation work focuses on the way that dramatic structural sound change (i.e., phonological change) is represented and produced by individual speakers during the change.
 
 
 ## Education
-- Ph.D., Linguistics | University of Pennsylvania
-  Advisor: William Labov                             		
+- Ph.D., Linguistics | University of Pennsylvania (Advisor: William Labov)                             		
 - B.A., Linguistics | Korea University 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Post-doctoral researcher @ The Institute of Humanities, Seoul National University (2022 - Present_)**
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Lecturer, Department of English Language and Literature, Seoul National University (2019 - Present)**
 
 ## Publications 
 ### Data-Driven EEG Band Discovery with Decision Trees
